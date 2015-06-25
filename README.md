@@ -1,8 +1,9 @@
 # ShadowfaxCarControl
-*CarControl for Arduino based autonomous robots using Adafruit motor shield
+Car control library for Arduino-based autonomous robots
+  using Adafruit motor shield v2.
 
-ShadowfaxCarControl library allows you to control a 4-wheel drive robot
-  using the Adafruit motor shield V2.
+ShadowfaxCarControl library allows you to control your 4-wheel drive
+  robot with a small piece of code.
   
 Along with this library, you also need the Adafruit_MotorShield library:
   https://github.com/adafruit/Adafruit_Motor_Shield_V2_Library
